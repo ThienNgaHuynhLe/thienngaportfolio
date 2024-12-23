@@ -4,7 +4,7 @@
 *{scroll-behavior: smooth}
 body
 
-{/*background-image: url("../images/bg.jpg");
+{/*background-image: url("../images/aweb-h700/bg_image.jpg");
 	background-repeat: no-repeat;
 	background-position: left top;
 	background-size: 100%;	
@@ -13,7 +13,7 @@ background-color:#FFFFFF;
 color:#000000; 
 font-size: 16px; 
 font-family:"Lexend", Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-margin: 0}
+margin: 0;}
 
 h1,h2
 {font-family: "Lexend", sans-serif;}
@@ -151,9 +151,8 @@ h1,h2,h3,h4,h5,h6
 .align-items-stretch{align-items:stretch}
 
 #welcome
-{background-image: url("../images/bg_image.png");
- background-repeat: no-repeat;
- background-position: center top;
+{background-image: url("../images/aweb-h700/bg_image.jpg");
+ background-position: 85% 20%, center top;
  padding: 0}
 
 @font-face 
